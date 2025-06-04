@@ -1,6 +1,7 @@
 from telethon import TelegramClient, events
 import asyncio
 import time
+import os
 from keep_alive import keep_alive
 keep_alive()
 
